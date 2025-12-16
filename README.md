@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Mateus Antônio Martins Belmiro - Desenvolvedor FullStack
 
+**Biografia do Perfil:** Desenvolvedor FullStack (16 anos). Cursando Téc. em Informática no CEDUP Abílio Paulo. Foco em aprimorar skills e contribuir para projetos inovadores.
+
 Natural de Santa Catarina e com 16 anos de idade, sou um estudante do **Ensino Médio Técnico em Informática** no CEDUP Abílio Paulo, em Criciúma. Sou um entusiasta apaixonado por tecnologia e focado em me desenvolver como um profissional FullStack.
 
 ---
@@ -34,4 +36,10 @@ Natural de Santa Catarina e com 16 anos de idade, sou um estudante do **Ensino M
 
 <p align="left"> 
   <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Martinsz09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Martinsz09/Martinsz09/output/dist/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
 </p>
