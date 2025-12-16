@@ -8,7 +8,7 @@
 
 ### 🌐 Conecte-se Comigo (Social)
 
-<div style="display: inline_block"><br>
+<div align="left">
     <a href="https://www.linkedin.com/in/mateus-ant%C3%B4nio-martins-belmiro-0722843a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/dev.martinsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -51,8 +51,20 @@ Sou FullStack, com foco em desenvolvimento web moderno (Front-end e Back-end).
 ### 📊 Estatísticas do GitHub
 
 <p align="left"> 
-  <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Martinsz09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Martinsz09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" 
+  /> 
+  <img 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinsz09&layout=compact&theme=tokyonight&langs_count=6&custom_title=Linguagens Mais Usadas&border_radius=10"
+  />
 </p>
+
+---
 
 ### 🐍 Animação de Contribuições (Snake)
 
