@@ -1,13 +1,25 @@
-# 👩🏻‍💻 Mateus Antônio Martins Belmiro - Desenvolvedor FullStack
+# 🚀 Mateus Antônio Martins Belmiro - Desenvolvedor FullStack
 
-**Biografia do Perfil:** Desenvolvedor FullStack (16 anos). Cursando Téc. em Informática no CEDUP Abílio Paulo. Foco em aprimorar skills e contribuir para projetos inovadores.
-
-Natural de Santa Catarina e com 16 anos de idade, sou um estudante do **Ensino Médio Técnico em Informática** no CEDUP Abílio Paulo, em Criciúma. Sou um entusiasta apaixonado por tecnologia e focado em me desenvolver como um profissional FullStack.
+> Natural de Santa Catarina, sou um entusiasta apaixonado por tecnologia e focado em me desenvolver como um profissional FullStack. Atualmente, com 16 anos, curso o Ensino Médio Técnico em Informática no CEDUP Abílio Paulo, em Criciúma.
+>
+> Meu foco é aprimorar skills em tecnologias modernas e contribuir para projetos inovadores.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 🌐 Conecte-se Comigo (Social)
 
+<div style="display: inline_block"><br>
+    <a href="https://www.linkedin.com/in/mateus-ant%C3%B4nio-martins-belmiro-0722843a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/dev.martinsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+Sou FullStack, com foco em desenvolvimento web moderno (Front-end e Back-end).
+
+#### Front-end & UI/UX
 <p align="left">
   <img alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -18,17 +30,21 @@ Natural de Santa Catarina e com 16 anos de idade, sou um estudante do **Ensino M
   
   <img alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</p>
 
+#### Back-end & Linguagens
+<p align="left">
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</p>
 
+#### Outras Ferramentas
+<p align="left">
   <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GDScript" title="GDScript (Godot Engine)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 </p>
-<br/>
-<br/>
 
 ---
 
@@ -38,8 +54,8 @@ Natural de Santa Catarina e com 16 anos de idade, sou um estudante do **Ensino M
   <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Martinsz09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
 </p>
 
-
+### 🐍 Animação de Contribuições (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Martinsz09/Martinsz09/output/dist/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+  <img src="https://raw.githubusercontent.com/Martinsz09/Martinsz09/output/dist/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
 </p>
